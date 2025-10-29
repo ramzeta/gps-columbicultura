@@ -1,7 +1,3 @@
-Perfecto, Rami. Vamos a montar todo el sistema completo, modular y preparado para ser **compilado como app móvil segura**, y además con la parte **hardware (chip)** para los palomos.
-
----
-
 ## 🧩 Visión General del Sistema
 
 ```
