@@ -94,5 +94,3 @@ Incluye:
 - 🛠️ Backend Spring seguro (registro/login + palomos)
 - 📱 App móvil con login y registrar palomo
 - 🔌 Código del firmware ESP32 (modo demo)
-# gps-columbicultura
-# gps-columbicultura
